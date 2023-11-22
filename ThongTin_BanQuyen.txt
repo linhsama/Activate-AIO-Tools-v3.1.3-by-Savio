@@ -1,0 +1,18 @@
+Software licensing service version: 10.0.19041.2546
+
+Name: Windows(R), CoreSingleLanguage edition
+Description: Windows(R) Operating System, RETAIL channel
+Activation ID: 3ae2cc14-ab2d-41f4-972f-5e20142771dc
+Application ID: 55c92734-d682-4d71-983e-d6ec3f16059f
+Extended PID: 03612-03276-000-000000-00-1033-19045.0000-0252023
+Product Key Channel: Retail
+Installation ID: 157194282596819374310372669625241559848891405785617314738752246
+Use License URL: https://activation-v2.sls.microsoft.com/SLActivateProduct/SLActivateProduct.asmx?configextension=Retail
+Validation URL: https://validation-v2.sls.microsoft.com/SLWGA/slwga.asmx
+Partial Product Key: 6F4BT
+License Status: Licensed
+Remaining Windows rearm count: 1001
+Remaining SKU rearm count: 1001
+Trusted time: 1/25/2023 4:55:13 PM
+
+
